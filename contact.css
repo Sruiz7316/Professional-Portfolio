@@ -1,0 +1,26 @@
+#name {
+   text-align: center;
+   padding: 20px;
+   margin: 0%;
+   background-color: teal;
+   font-family: Arial, Helvetica, sans-serif;
+   color: white;
+}
+
+.nav {
+    width: 100%;
+    text-align: center;
+    > li {
+      float: none;
+      display: inline-block;
+    }
+  }
+
+  #copyright {
+    text-align: center;
+    padding: 20px;
+    margin: 0%;
+    background-color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+ }
