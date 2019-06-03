@@ -1,0 +1,39 @@
+#name {
+   padding: 20px;
+   margin: 0%;
+   background-color: teal;
+   font-family: Arial, Helvetica, sans-serif;
+   color: white;
+  width: 150px;
+  position: static;
+}
+
+.nav {
+    width: 100%;
+    text-align: right;
+    > li {
+      float: right;
+      display: inline-block;
+    }
+  }
+
+  #copyright {
+    text-align: center;
+    padding: 20px;
+    margin: 0%;
+    background-color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+ }
+
+ .img-fluid {
+   height: 60%;
+   width: 60%;
+ }
+
+ .jumbotron {
+  
+}
+
+<div class="p-3 mb-2 bg-dark text-white">.bg-dark</div>
+
