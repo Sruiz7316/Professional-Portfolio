@@ -21,4 +21,9 @@ app.listen(PORT, function () {
   console.log('App listening on PORT:', PORT)
 })
 
+app.post('/mail', (req, res) => {
+  console.log('should send email')
+  req.status(200).end()
+})
+
 module.exports = app
